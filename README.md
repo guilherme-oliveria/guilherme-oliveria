@@ -1,12 +1,12 @@
-<div align="center">
-  <h1 align="center">
-    <a href="https://git.io/typing-svg">
-      <img
-        src="https://readme-typing-svg.demolab.com/?lines=Olá,+tudo+bem?+👋;Eu+sou+o+Guilherme+☕;Seja+bem-vindo+ao+meu+GitHub!&center=true&size=30&width=600&color=F89820"
-      />
-    </a>
-  </h1>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:f89820&height=200&section=header&text=Guilherme%20Machado%20de%20Oliveira&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Especialista%20em%20Desenvolvimento%20de%20Software&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F89820&center=true&vCenter=true&width=600&lines=%E2%98%95+Java+Developer+S%C3%AAnior;%F0%9F%8F%97%EF%B8%8F+Arquitetura+%7C+DDD+%7C+Hexagonal;%F0%9F%94%97+APIs+REST+%26+Integra%C3%A7%C3%A3o+de+Sistemas;%F0%9F%9A%80+Spring+Boot+%2B+Microsservi%C3%A7os;%F0%9F%A7%AD+L%C3%ADder+T%C3%A9cnico" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
